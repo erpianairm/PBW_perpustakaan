@@ -1,9 +1,9 @@
-**📚Rancangan Sistem Perpustakaan 📚**
+# 📚Rancangan Sistem Perpustakaan 📚 #
 
-Selamat datang di Sistem Perpustakaan, proyek yang disusun oleh Kelompok 7. 
-Proyek ini merupakan tugas akhir dalam mata kuliah PBW yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital.
+# Selamat datang di Sistem Perpustakaan, proyek yang disusun oleh Kelompok 7. #
+<br> Proyek ini merupakan tugas akhir dalam mata kuliah PBW yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital. <br>
 
-**👥 Anggota Kelompok**
+# 👥 Anggota Kelompok #
 <br> 4522210005 - Titin Sugihartini <br>
 <br> 4522210019 - Lutfiah Rizka <br>
 <br> 452210051 - Irma Erpiana <br>
@@ -20,5 +20,5 @@ Sistem ini dirancang agar dapat digunakan di berbagai jenis perpustakaan, baik s
 
 **⚙️ Teknologi yang Digunakan**
 Proyek ini dibangun menggunakan berbagai teknologi modern, yang mendukung efisiensi dan skalabilitas sistem, di antaranya:
-Database: [MySQL/PostgreSQL]
-Antarmuka Pengguna: [HTML, CSS, JavaScript]
+Database: [MySQL/phpmyadmin]
+Antarmuka Pengguna: [PHP, HTML, CSS]
