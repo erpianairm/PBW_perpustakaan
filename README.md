@@ -1,5 +1,7 @@
 📚 Rancangan Sistem Perpustakaan 📚
-Selamat datang di Sistem Perpustakaan, proyek yang disusun oleh Kelompok 7. Proyek ini merupakan tugas akhir dalam mata kuliah [nama mata kuliah] yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital.
+
+Selamat datang di Sistem Perpustakaan, proyek yang disusun oleh Kelompok 7. 
+Proyek ini merupakan tugas akhir dalam mata kuliah PBO yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital.
 
 👥 Anggota Kelompok
 4522210005 - Titin Sugihartini
