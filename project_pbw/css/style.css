@@ -1,0 +1,83 @@
+/* Global Styles */
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #34495e;
+}
+h2, h3 {
+    color: #d92c8e;
+    text-align: center;
+}
+
+/* Form Styles */
+form {
+    width: 60%;
+    margin: 20px auto;
+    background: #e5c796;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(240, 232, 232, 0.1);
+}
+
+form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+form input[type="text"], form input[type="password"], form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #fefefe;
+    border-radius: 4px;
+}
+
+form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background: #7b7665;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background: #ae4c85;
+}
+
+/* Table Styles */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+table th {
+    background: #f4f4f4;
+    text-align: left;
+}
+
+table tr:hover {
+    background: #f1f1f1;
+}
+
+/* Link Styles */
+a {
+    color: #d1b3cb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
