@@ -4,7 +4,7 @@
 <br> Proyek ini merupakan tugas akhir dalam mata kuliah PBW yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital. <br>
 
 # 👥 Anggota Kelompok #
-<br> 4522210005 - Titin Sugihartini <br>
+<br> 4522210004 - Titin Sugihartini <br>
 <br> 4522210019 - Lutfiah Rizka <br>
 <br> 452210051 - Irma Erpiana <br>
 
